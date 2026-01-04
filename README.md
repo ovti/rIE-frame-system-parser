@@ -11,7 +11,7 @@ The goal of the project is to model a frame-based declarative knowledge system a
 The system consists of two independent modules:
 
 ### Module 1 – Frame System Editor (C# / WPF)
-- Desktop application built with **C# (.NET) ** and **WPF**.
+- Desktop application built with **C# (.NET) and WPF**.
 - Allows creating and editing a frame based knowledge system.
 - Frames are represented as graph nodes with attributes.
 - Relations between frames are represented as edges.
